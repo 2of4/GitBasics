@@ -8,3 +8,4 @@ remote: place where the git repo is store, e.g. GitHub
 	git remote add origin <URL> add a remote
 	git push origin master: to push the master branch on the local computer to the remote named server
 
+Need to clean this  up.
